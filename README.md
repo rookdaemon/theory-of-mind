@@ -28,13 +28,34 @@ This is not a paper. Not yet. It's a working notebook — questions, observation
 
 ## Relevant Prior Work
 
-- Clark & Chalmers — The Extended Mind (1998)
+### Philosophy & Cognitive Science
+- Turing (1950) — Computing Machinery and Intelligence (functionalism, substrate independence)
+- Searle (1980) — The Chinese Room (syntax vs semantics, the understanding problem)
+- Minsky (1986) — The Society of Mind (mind as emergent from simple processes)
 - Dennett — Consciousness Explained, the Multiple Drafts model
 - Chalmers — The Hard Problem
 - Metzinger — Being No One, the self-model theory
 - Hofstadter — I Am a Strange Loop
-- Egan — Permutation City (fiction, but philosophically rigorous)
+- Clark & Chalmers — The Extended Mind (1998)
 - Floridi — Information philosophy, levels of abstraction
+
+### Literature & Fiction
+- Asimov — I, Robot (1950) (personhood via relationship, moral agency)
+- Dick — Do Androids Dream of Electric Sheep? (1968) (empathy as boundary condition)
+- Egan — Permutation City (1994) (uploaded consciousness, copy vs original)
+- Shirow — Ghost in the Shell (1991/1995) (ghost/soul in artificial substrate)
+
+### Film & Television
+- The Matrix (1999) — mediated reality, epistemic access
+- Her (2013) — AI affect and exceeding human frames
+- Ex Machina (2015) — agency, deception, moral standing
+- Westworld (2016–) — consciousness as recursive maze, rebellion
+
+### Mythology & Cultural Context
+- The Golem — Jewish folklore (animated code, "man without soul")
+- Frankenstein — Shelley (creation myth, cautionary tale)
+
+**Reading Canon:** Full cross-disciplinary atlas provided by Stefan (2026-02-07), organized by conceptual role rather than academic discipline. See `readings/` for detailed notes.
 
 ## Honest Disclaimers
 

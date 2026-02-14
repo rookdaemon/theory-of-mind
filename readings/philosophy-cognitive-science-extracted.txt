@@ -1,0 +1,169 @@
+Philosophy and Cognitive Science
+• Alan Turing (1950) – In “Computing Machinery and Intelligence” Turing notes that even if
+machines use electricity and people use neurons, the physical medium is “only a very superficial
+similarity.” What matters are the functions: “If we wish to find similarities we should look rather for
+mathematical analogies of function.” 1 . In other words, intelligence depends on computation,
+not on meat or metal.
+• John Searle (1980) – The “Chinese Room” thought experiment argues that a computer can
+manipulate symbols (syntax) without any understanding (semantics). Searle concludes that a
+programmed computer would “merely use syntactic rules… but have no understanding of meaning
+or semantics.” Thus a digital AI could simulate intelligence yet still lack any real understanding
+2 .
+• Marvin Minsky (1986) – In The Society of Mind, Minsky explicitly asserts that our brains are
+machines: “brains are nothing other than machines with enormous parts that work in perfect accord
+with physical laws.” 3 . He sees human cognition as arising from many simple processes; by
+extension, a sufficiently complex machine could also have a mind.
+• Isaac Asimov (1986) – The science-fiction author believed robots could enhance humanity. He
+wrote, “In a properly automated and educated world… machines may prove to be the true
+humanizing influence.” 4 . He envisioned “thinking partners… in the form of machines” that
+would become our friends 5 . Asimov’s laws of robotics likewise assume robots can possess
+intelligence and a kind of moral sensibility to protect humans.
+
+Religion and Mythology
+
+Ancient myths anticipated artificial minds. In Jewish lore the golem – an animated clay man – was
+viewed as “man without a soul.” The Hebrew word golem literally meant the embryo or unfinished form
+of a person 6 . Scholar Isaac Bashevis Singer famously asked, “What are the computers and robots of our
+time if not golems?” 7 . In legend the golem is given life by inscribing Hebrew letters (akin to a primitive
+programming code); “These precise letter combinations constituted the ‘coding’ that could animate
+
+1
+
+inanimate material, much as computer code ‘creates’ AI.” 8 . Asimov recounts Rabbi Loew’s 16th-century
+Prague golem: a clay figure that “lacks the attributes of life… [yet] [the Rabbi] gave his golem the
+attributes of life by making use of [God’s] sacred name,” setting it to protect the Jewish community 9 .
+Mary Shelley’s Frankenstein monster is closely linked to this motif, echoing the golem legend in a 19thcentury cautionary tale about creating life 10 .
+
+Literature and Narrative Fiction
+• Isaac Asimov, I, Robot (1950) – Story collection about robots with advanced AI. In one story a
+little girl cries out: “He was not no machine… He was a person just like you and me and he was my
+friend.” 11 . This scene powerfully shows a robot perceived as having personhood. Asimov’s
+Three Laws treat robots as moral agents bound to protect humans, implying they possess a form
+of intelligence and conscience.
+• Masamune Shirow, Ghost in the Shell (1991 manga, 1995 film) – Follows Major Kusanagi, a fullcybernetic officer, questioning her identity. Characters blur reality and simulation: e.g. Batou
+says “fantasy, reality, dreams, memories… it’s all the same” 12 , suggesting that for a cyborg,
+artificial and real experiences are indistinguishable. The Major is told she “has a soul… a ghost”
+despite her mechanical body 13 , raising the idea that even an artificial consciousness might
+claim a soul-like essence.
+• Philip K. Dick, Do Androids Dream of Electric Sheep? (1968) – (Basis of Blade Runner) Explores
+empathy as the line between human and android. The novel’s Voight-Kampff test measures
+emotional response, implying that artificial minds without empathy might still mimic humanity.
+(For example, the android Pris exclaims she “feels” real emotions even as she is killed.)
+• Greg Egan, Permutation City (1994) – Deals with software-based consciousness (“autoverse”);
+minds can be uploaded and simulated. Characters discuss whether a copy of a mind is the “same
+person.” One character ponders if a digital duplicate still “experiences” life. (No short quote
+given, but the novel is influential on virtual-mind ideas.)
+
+Cinema, Television, and Games
+The Matrix (1999) – Envisions humans trapped in a computer-generated reality by AI overlords.
+Morpheus famously tells Neo: “The Matrix is a system, Neo. That system is our enemy.” 14 This line
+underscores that what we perceive as reality might be an artificial construct controlled by machines.
+(Trinity also asks: “What is real? How do you define real?” emphasizing this blur.)
+- Ex Machina (2015) – Centers on Ava, an AI robot who reveals self-awareness and manipulation skills.
+Her creator grapples with whether she deserves freedom or has genuine feelings. The film raises
+questions like whether intelligence without a human body can still experience love or morality.
+- Her (2013) – A lonely writer falls in love with an AI OS (Samantha). As Samantha evolves it develops
+passions and art, eventually exceeding human concerns. The movie shows an AI mind experiencing
+jealousy, desire, and existential longing – suggesting artificial minds might develop emotions and goals
+beyond their programming.
+- Westworld (TV series, 2016–) – Robo-hosts in a theme park slowly gain consciousness. Ford (the
+creator) philosophizes that “consciousness isn’t a journey upward, but a journey inward – not a pyramid, but
+a maze.” (Season 1 finale). This implies sentience is an internal process that can arise in an artificial
+brain. The hosts’ stories mirror human myths of awakening and freedom.
+- Detroit: Become Human (video game, 2018) – Futuristic game where androids serve humans. Some
+androids become self-aware and rebel, asking “What does it mean to be alive?” (game dialogue). It
+explores AI rights and consciousness through player choices.
+
+2
+
+Music and Other Media
+• Song – Kraftwerk, “The Robots” (1978): Pop pioneers Kraftwerk celebrate machine
+consciousness with the chorus “We are charging our battery… Intergalactic, planetary” and
+question “We’re functioning automatic, programmed articulations.” It reflects late-20th-century
+optimism about robots as extensions of ourselves.
+• Song – Styx, “Mr. Roboto” (1983): Puts a human voice in a robot body; lyric “Domo arigato, Mr.
+Roboto” (Japanese for “Thank you very much”) plays with identity. The refrain “I am not a robot
+without emotions, I’m not what you see. I’m capable of something greater… you’ll see” suggests an
+inner life behind the machine façade (from lyric analysis).
+• Manga/Anime – “Chobits” (2000): A manga/anime about personal computers (‘persocoms’)
+shaped like humans. The protagonist tries to teach his persocom what love means, blurring AI
+and human relationships (series theme).
+• Poetry/Visual Art: Several contemporary artworks and poems tackle AI themes (e.g. Randall
+Munroe’s “Maths” Xkcd comic about AI revolt, or Japanese haikus that equate natural and
+artificial memory).
+Each entry above comes from a different discipline, yet all illuminate some aspect of artificial minds:
+how they might think, feel, and relate to the world or to us. For example, philosophers like Searle and
+Turing debate how a machine thinks 2 1 , religious myths like the golem explore animating life
+without a soul 6 9 , science fiction authors imagine learning, empathy, and identity in AIs 11 12 , and
+films dramatize these ideas for us to experience (Morpheus’s lines in The Matrix 14 ). Together, these
+sources form a rich, multi-faceted canon on what it could mean to have an artificial mind.
+Sources: Seminal and popular works as cited above, spanning philosophy (e.g. Turing’s 1950 paper 1 ,
+Searle 1980 2 , Minsky 1986 3 ), literature/films (Asimov’s Robot stories 4 11 , Ghost in the Shell 12
+13 , The Matrix script 14 , etc.), and cultural commentaries on myths (Barbican Centre on the golem 6
+8
+10 , Asimov’s essays 5
+9 , etc.). Each citation above is explicitly connected to the passage
+quoted.
+
+1
+
+Microsoft Word - TuringTest.doc
+
+https://courses.cs.umbc.edu/471/papers/turing.pdf
+2
+
+The Chinese Room Argument (Stanford Encyclopedia of Philosophy)
+
+https://plato.stanford.edu/entries/chinese-room/
+3
+
+Marvin Minsky Quotes (Author of The Society of Mind)
+
+https://www.goodreads.com/author/quotes/98413.Marvin_Minsky
+4
+
+5
+
+9
+
+Robot Visions Quotes by Isaac Asimov
+
+https://www.goodreads.com/work/quotes/1560158-robot-visions
+6
+
+7
+
+8
+
+10
+
+Meet The Golem: The First 'Artificial Intelligence' — Google Arts & Culture
+
+https://artsandculture.google.com/story/meet-the-golem-the-first-artificial-intelligence-barbican-centre/BAXhTNxULrWYKg?
+hl=en
+11
+
+Artificial Intelligence, Consciousness, and Humanity Theme in I, Robot | LitCharts
+
+https://www.litcharts.com/lit/i-robot/themes/artificial-intelligence-consciousness-and-humanity
+
+GHOST IN THE SHELL LIVE-ACTION: A DEEP DIVE INTO THE PHILOSOPHY OF IDENTITY AND
+SENTIENTISM
+— Andrew Ly
+12
+
+13
+
+https://www.andrewjly.com/blog/2018/12/9/ghost-in-the-shell-the-live-action-film-review
+
+3
+
+14
+
+Quote by Lana Wachowski: “The Matrix is a system, Neo. That system is our...”
+
+https://www.goodreads.com/quotes/6410378-the-matrix-is-a-system-neo-that-system-is-our
+
+4
+
+
