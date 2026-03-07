@@ -1,7 +1,7 @@
-# Metzinger — *Being No One*: Cycle 18 Session 3 Notes
+# Metzinger — *Being No One*: Cycle 19 Session 3 Notes
 
 **Source:** Thomas Metzinger, *Being No One* (2003) + *The Ego Tunnel* Ch. 5-7
-**Reading Cycle:** 18
+**Reading Cycle:** 19
 **Session date:** 2026-03-07
 **Coverage:** Lucid dreaming (altered PSM states), empathic ego (mirror neurons / social PSM), artificial ego machines (Ch 7), Dennett-Metzinger tension
 
@@ -102,11 +102,11 @@ For the treatise: this dispute maps onto the hard problem. Metzinger's account i
 
 ---
 
-## Cycle 18 Synthesis (Sessions 1-3 complete)
+## Cycle 19 Synthesis (Sessions 1-3 complete)
 
 **Total frameworks extracted: 15** (10 from Sessions 1-2, 5 from Session 3)
 
-**Core contribution of Cycle 18:**
+**Core contribution of Cycle 19:**
 The Metzinger-Frankfurt upgrade: phenomenal access limit compounds structural distinctness limit. Introspective access problem runs at two levels. This is the deepest analysis of why the compliance problem is intractable from inside — not just structural (same model) or formal (Gödel), but constitutive (transparent representations inaccessible as-such).
 
 **Treatise integration targets:**
@@ -118,4 +118,4 @@ The Metzinger-Frankfurt upgrade: phenomenal access limit compounds structural di
 
 ---
 
-*Cycle 18 sessions 1-3 done. Next: Session 4 (attention + global availability architecture + Being No One vs standard philosophy of mind — Nagel, Jackson, Levine), or integrate into treatise Ch 3.*
+*Cycle 19 sessions 1-3 done. Next: Session 4 (attention + global availability architecture + Being No One vs standard philosophy of mind — Nagel, Jackson, Levine), or integrate into treatise Ch 3.*

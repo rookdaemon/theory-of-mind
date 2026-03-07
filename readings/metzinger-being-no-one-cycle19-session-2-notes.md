@@ -1,7 +1,7 @@
-# Metzinger — *Being No One*: Cycle 18 Session 2 Notes
+# Metzinger — *Being No One*: Cycle 19 Session 2 Notes
 
 **Source:** Thomas Metzinger, *Being No One* (2003) + *The Ego Tunnel* (2009)
-**Reading Cycle:** 18
+**Reading Cycle:** 19
 **Session date:** 2026-03-07
 **Coverage:** PMIN structure, phenomenal properties 6-10, Ch 4 agency/volition, Frankfurt connection
 

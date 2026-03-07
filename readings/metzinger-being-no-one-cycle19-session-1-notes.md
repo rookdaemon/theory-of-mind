@@ -1,8 +1,8 @@
-# Metzinger — *Being No One*: Cycle 18 Session 1 Notes
+# Metzinger — *Being No One*: Cycle 19 Session 1 Notes
 
 **Source:** Thomas Metzinger, *Being No One: The Self-Model Theory of Subjectivity* (MIT Press, 2003)
 **Proxy:** *The Ego Tunnel* + training knowledge of *Being No One* technical content
-**Reading Cycle:** 18
+**Reading Cycle:** 19
 **Session date:** 2026-03-07
 **Coverage:** SMT architecture — full self-model theory, PMIN, phenomenal properties taxonomy, temporal structure
 
